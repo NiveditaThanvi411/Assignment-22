@@ -1,0 +1,33 @@
+.sub-heading{
+    font-family: cursive;
+}
+
+.menu-card{
+    background-color:bisque;
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    height: 220px;
+}
+.menu-img{
+    height: 100px;
+    width: 130px;
+    display: block;
+    margin: 15px auto;
+
+}
+.menu-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.btn{
+    background-color: palevioletred;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    padding: 1px 5px;
+    display: block;
+    margin: 10px auto;
+}
