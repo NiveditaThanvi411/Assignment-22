@@ -31,3 +31,12 @@
     display: block;
     margin: 10px auto;
 }
+.sweet-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+    
+    
+
+

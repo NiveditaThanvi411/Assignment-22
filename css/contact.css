@@ -1,0 +1,41 @@
+body{
+    background-color: #fec7d7;
+}
+
+.main-heading{
+    text-align: center;  
+    color: #0e172c;
+    font-size: 60px;
+}
+.text-style{
+    font-family:'Dancing Script';
+}
+
+.text-centre{
+    text-align: center;
+}
+.feedback-form input[type="text"],
+.feedback-form input[type="tel"],
+.feedback-form input[type="email"],
+.feedback-form textarea {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.container {
+    width: 100%;
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.feedback-form label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
