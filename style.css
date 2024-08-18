@@ -1,12 +1,41 @@
-.main-heading{
-    text-align: center;
-    background-attachment: #fef6e4;
-    color: #001858;
-    font-size: 60px;
+body{
+    background-color: #fec7d7;
 }
 
+.main-heading{
+    text-align: center;  
+    color: #0e172c;
+    font-size: 60px;
+}
+.text-centre{
+    text-align: center;
+}
+.links{
+    text-decoration: none;
+    color: none;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;}
 
 
 .text-style{
     font-family:'Dancing Script';
+}
+.Services-card{
+    background-color: burlywood;
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    height: 270px;
+}
+.services-img{
+    height: 70px;
+    display: block;
+    margin: 15px auto;
+
+}
+.services-container{
+    display: flex;
+    justify-content: space-between;
 }
